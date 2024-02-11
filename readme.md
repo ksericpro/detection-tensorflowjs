@@ -1,9 +1,6 @@
 # links
 [LabelStudio] (https://github.com/HumanSignal/label-studio)
 [tensorjs] (https://towardsdatascience.com/custom-real-time-object-detection-in-the-browser-using-tensorflow-js-5ca90538eace)
-[Tensorflow] (https://www.tensorflow.org/tfmodels/vision/object_detection)
-[Roboflow Auarium] (https://public.roboflow.com/object-detection/aquarium)
-
 
 # Setup
 
@@ -25,4 +22,3 @@ Sks*12345
 import 301 files from data/guitars
 configure guitar and human as labels
 start labelling for the imported files
-
