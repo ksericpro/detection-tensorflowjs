@@ -1,4 +1,5 @@
 docs/
+models/
 .env
 **/logs
 **/node_modules
