@@ -1,6 +1,3 @@
-docs/
+docs/git
 models/
 .env
-**/logs
-**/node_modules
-**/build

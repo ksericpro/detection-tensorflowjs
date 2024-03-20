@@ -30,6 +30,7 @@ Sks*12345
 import 301 files from data/guitars
 configure guitar and human as labels
 start labelling for the imported files
+<<<<<<< HEAD
 
 # Install 
 - pip install tensorflowjs[wizard]
@@ -40,3 +41,5 @@ start labelling for the imported files
 
 # convert ipynb to HTML
 - !jupyter nbconvert --to html tensorflow_aquariums.ipynb
+=======
+>>>>>>> 40a024ead4fb101ed7b2ecfeff4eb6ebbc5c738b
