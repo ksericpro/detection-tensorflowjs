@@ -24,8 +24,6 @@ In this post, we are going to develop an end-to-end solution using TensorFlow to
 
 ```
 create acct + login
-ksericpro@gmail
-Sks*12345
 ```
 
 ## create project guitar
